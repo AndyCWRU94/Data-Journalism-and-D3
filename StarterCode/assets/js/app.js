@@ -90,7 +90,7 @@ yText .append("text")
 // Define dynamic circle radius
 var cRadius;
 function adjustRadius() {
-  if (width <= 530) {
+  if (width <= 800) {
     cRadius = 7;}
   else { 
     cRadius = 10;}
